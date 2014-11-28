@@ -12,7 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+ require_tree .
 //= require cocoon
 //= require jquery.ui.sortable
 
